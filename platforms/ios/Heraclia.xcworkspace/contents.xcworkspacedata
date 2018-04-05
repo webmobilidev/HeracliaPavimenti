@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Heraclia Pavimenti.xcodeproj">
+      location = "group:Heraclia.xcodeproj">
    </FileRef>
 </Workspace>

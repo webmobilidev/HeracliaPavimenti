@@ -73,35 +73,35 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.heracliapavimenti.heracliapavimenti"
+            "PACKAGE_NAME": "com.heraclia.heracliapavimenti"
         }
     },
     "dependent_plugins": {},
